@@ -51,6 +51,7 @@ The dev server opens at http://localhost:3000.
 - `Integrating An External Website with Firestorm (1).md`
 - `package-lock.json`
 - `package.json`
+- `README.md`
 - `tailwind.config.js`
 
 ## Configuration
